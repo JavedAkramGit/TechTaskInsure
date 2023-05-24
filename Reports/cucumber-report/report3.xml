@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="0.478" tests="3" skipped="0" failures="3" errors="0">
+<testcase classname="Check functionality of Drag and Drop in the JQuery.ui websute" name="Verify Drag and Drop aligns with functional requirement" time="0.054">
+<failure/>
+<system-out><![CDATA[
+Given User initializes the Browser-driver...................................undefined
+When User navigates to the JQuery page......................................skipped
+Then User is able to view the JQuery Main page..............................skipped
+When User navigates to the Drag and Drop Page...............................skipped
+And User Drags and Drops an Element.........................................skipped
+Then Navigate to the Main page..............................................skipped
+]]></system-out>
+</testcase>
+<testcase classname="Check functionality of Drag and Drop in the JQuery.ui websute" name="Verify Select functionality" time="0.008">
+<failure/>
+<system-out><![CDATA[
+Given User initializes the Browser-driver...................................undefined
+When User navigates to the JQuery page......................................skipped
+Then User is able to view the JQuery Main page..............................skipped
+When User navigates to the Select Options Page..............................skipped
+And User Selects mutiple items ( Item 1, Item 3 , Item 7)...................skipped
+Then User is able to select multiple elements...............................skipped
+]]></system-out>
+</testcase>
+<testcase classname="Check functionality of Drag and Drop in the JQuery.ui websute" name="Verify Control group" time="0.018">
+<failure/>
+<system-out><![CDATA[
+Given User initializes the Browser-driver...................................undefined
+When User navigates to the JQuery page......................................skipped
+Then User is able to view the JQuery Main page..............................skipped
+When User navigates to Control group page...................................skipped
+And User chooses multiple options as assigned...............................skipped
+Then User is able to choose multiple options and book.......................skipped
+]]></system-out>
+</testcase>
+</testsuite>
